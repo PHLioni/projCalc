@@ -1,0 +1,14 @@
+.container--title {
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.container--calc {
+  height: 320px;
+  width: 235px;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: red;
+}
